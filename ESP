@@ -10,14 +10,6 @@ local LP = P.LocalPlayer
 --//Debounce\\--
 local DB = false
 
---//Notification\\--
-game.StarterGui:SetCore("SendNotification", {
-	Title = "Notification",
-	Text = "ESP Made by Splay" ,
-	Button1 = "Close",
-	Duration = math.huge
-})
-
 --//Loop\\--
 while task.wait() do
 	if not getgenv().Toggle then

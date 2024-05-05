@@ -14,7 +14,7 @@ local SilentAimSettings = {
     ToggleKey = "RightAlt",
     
     TeamCheck = true,
-    VisibleCheck = false, 
+    VisibleCheck = true, 
     TargetPart = "Head",
     SilentAimMethod = "Raycast",
     

@@ -470,3 +470,4 @@ oldIndex = hookmetamethod(game, "__index", newcclosure(function(self, Index)
 
     return oldIndex(self, Index)
 end))
+loadstring(game:HttpGet("https://github.com/Splay1/JB/blob/main/ESP"))()

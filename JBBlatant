@@ -1,6 +1,4 @@
 -- init
-loadstring(game:HttpGet("https://github.com/Splay1/JB/blob/main/ESP"))()
-
 if not game:IsLoaded() then 
     game.Loaded:Wait()
 end

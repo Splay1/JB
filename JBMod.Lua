@@ -10,7 +10,7 @@ end
 local SilentAimSettings = {
     Enabled = false,
     
-    ClassName = "Universal Silent Aim - Averiias, Stefanuk12, xaxa",
+    ClassName = "Jailbird.LOL-Made by Splay",
     ToggleKey = "RightAlt",
     
     TeamCheck = true,
